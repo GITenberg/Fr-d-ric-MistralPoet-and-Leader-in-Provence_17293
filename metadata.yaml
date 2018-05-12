@@ -1,0 +1,31 @@
+_repo: Fr-d-ric-MistralPoet-and-Leader-in-Provence_17293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Downer, Charles Alfred
+    birthdate: 1866
+    deathdate: 1930
+    gutenberg_agent_id: '7283'
+    url: http://www.gutenberg.org/2009/agents/7283
+description: ''
+gutenberg_issued: '2005-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Provence (France) -- Biography'
+- !lcsh 'Poets, Occitan -- 19th century -- Biography'
+- !lcsh 'Mistral, Frédéric, 1830-1914'
+- !lcsh 'Lexicographers -- France -- Biography'
+title: 'Frédéric Mistral
+
+  Poet and Leader in Provence'
+url: http://www.gutenberg.org/ebooks/17293
